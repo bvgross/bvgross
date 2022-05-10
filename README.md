@@ -7,7 +7,7 @@
   <a href="https://github.com/bvgross">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=bvgross&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&border_radius=20"/>
   </a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvgross&layout=compact&langs_count=6&theme=onedark&hide_border=true&border_radius=20&card_width=220"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvgross&layout=compact&langs_count=6&theme=onedark&hide_border=true&border_radius=20&card_width=250"/>
   </a>
 <br/>
 </div>
