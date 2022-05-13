@@ -1,7 +1,7 @@
 ## Olá, eu sou o Bruno Gross
 
-- Atualmente estou estudando C++ e JavaScript.
-- Interessado em aprender Rust e Python.
+- Atualmente estou estudando C++.
+- Interessado em aprender Rust e Python em algum momento futuro.
 <br/>
 <div align="left">
   <a href="https://github.com/bvgross">
@@ -13,5 +13,4 @@
 </div>
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Bruno-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
