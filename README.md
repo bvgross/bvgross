@@ -1,7 +1,7 @@
 ## Olá, eu sou o Bruno Gross
 
 - Atualmente estou estudando C++.
-- Interessado em aprender Rust e Python em algum momento futuro.
+
 <br/>
 <div align="left">
   <a href="https://github.com/bvgross">
