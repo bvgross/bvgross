@@ -9,9 +9,9 @@
 Atualmente estou participando de uma residência intensiva em desenvolvimento web.
 
 ### O que estou aprendendo 
-- SQL e postgres
+- SQL e PostgreSQL
 - <strong>Java</strong>
-- RESTFUL API (Java)
+- RESTful API (Java)
 - React
 - React Native
 
@@ -24,7 +24,7 @@ Atualmente estou participando de uma residência intensiva em desenvolvimento we
 ### O que sei
 #### Programação
 - C (básico) e C++ (básico)
-- Javascript (intermediário)
+- JavaScript (intermediário)
 - React (básico)
 - Shell script (básico)
 - Linux (intermediário)
