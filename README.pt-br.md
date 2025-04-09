@@ -9,11 +9,12 @@
 Atualmente estou participando de uma residência intensiva em desenvolvimento web.
 
 ### O que estou aprendendo 
-- SQL e PostgreSQL
-- <strong>Java</strong>
-- RESTful API (Java)
-- React
-- React Native
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
 ### Objetivos atuais
 - Desenvolver a publicar uma aplicação web completa e disponibilizar para o público.
@@ -22,12 +23,15 @@ Atualmente estou participando de uma residência intensiva em desenvolvimento we
 - Trabalhar no desenvolvimento de ferramentas web efetivas.
 
 ### O que sei
-#### Programação
-- C (básico) e C++ (básico)
-- JavaScript (intermediário)
-- React (básico)
-- Shell script (básico)
-- Linux (intermediário)
+#### Programação e tecnologia
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C: conhecimento básico"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++: conhecimento básico"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JS: conhecimento intermediário"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React: conhecimento básico"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="bash scripting: conhecimento básico"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux: conhecimento intermediário"/>
+</p>
 
 #### Conhecimentos gerais
 - Blender (avançado)
@@ -35,7 +39,7 @@ Atualmente estou participando de uma residência intensiva em desenvolvimento we
 - AutoCAD (avançado)
 - Inglês (avançado)
 
-### Sonhos para o futuro
+### Sonhos para o futuro distante
 - Aprender mais sobre programação de sistemas e suas linguagens.
 - Participar e contribuir com importantes projetos open-source. (Quem sabe o Linux!)
 - Desenvolver um jogo.
