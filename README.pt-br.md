@@ -29,7 +29,7 @@ Atualmente estou participando de uma residência intensiva em desenvolvimento we
 - Shell script (básico)
 - Linux (intermediário)
 
-#### General knowledges
+#### Conhecimentos gerais
 - Blender (avançado)
 - Photoshop (avançado)
 - AutoCAD (avançado)
