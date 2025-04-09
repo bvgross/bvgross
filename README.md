@@ -34,7 +34,7 @@ I'm currently attending an intensive full-stack programming bootcamp.
 - AutoCAD (advanced)
 - English (advanced)
 
-### Future dreams:
+### Future dreams
 - Learn more about systems programming and the languages commonly used in it.
 - Engage in the open-source community and contribute to important projects. (maybe even Linux!)
 - Develop a game.
