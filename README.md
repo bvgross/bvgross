@@ -3,14 +3,15 @@
 
 
 ## Hello, I'm Bruno Gross!
+##### (A former architect and urban planner, aspiring to be a programmer)
 
 ### What I am working on
 I'm currently attending an intensive full-stack programming bootcamp.
 
 ### What I am learning 
-- SQL and postgres
+- SQL and PostgreSQL
 - <strong>Java</strong>
-- RESTFUL API (Java)
+- RESTful API (Java)
 - React
 - React Native
 
@@ -23,12 +24,12 @@ I'm currently attending an intensive full-stack programming bootcamp.
 ### What I know
 #### Programming
 - C (basic) and C++ (basic)
-- Javascript (intermediate)
+- JavaScript (intermediate)
 - React (basic)
 - Shell scripting (basic)
 - Linux (intermediate)
 
-#### General knowledges
+#### General knowledge
 - Blender (advanced)
 - Photoshop (advanced)
 - AutoCAD (advanced)
