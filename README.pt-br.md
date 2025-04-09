@@ -34,10 +34,11 @@ Atualmente estou participando de uma residência intensiva em desenvolvimento we
 </p>
 
 #### Conhecimentos gerais
+- Inglês (avançado)
+- Mandarim (acabei de começar)
 - Blender (avançado)
 - Photoshop (avançado)
 - AutoCAD (avançado)
-- Inglês (avançado)
 
 ### Sonhos para o futuro distante
 - Aprender mais sobre programação de sistemas e suas linguagens.
