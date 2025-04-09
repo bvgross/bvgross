@@ -3,7 +3,7 @@
 
 
 ## Hello, I'm Bruno Gross!
-##### (A former architect and urban planner, aspiring to be a programmer)
+Life is all about learning new things, and I'm especially happy when they are technology and/or art related!
 
 ### What I am working on
 I'm currently attending an intensive full-stack programming bootcamp.
