@@ -3,7 +3,7 @@
 
 
 ## Olá, eu sou Bruno Gross! 
-A vida é sobre aprender coisas novas, e nada me deixa mais feliz quando elas são relacionadas à tecnologia e/ou à arte!
+A vida é sobre aprender coisas novas, e fico muito feliz que elas sejam relacionadas à tecnologia e/ou à arte!
 
 ### O que estou fazendo
 Atualmente estou participando de uma residência intensiva em desenvolvimento web.
